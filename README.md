@@ -14,7 +14,7 @@ $\small\textcolor{#CA4363}{\textsf{ kelsey or kel}}$
    <p align="center">
    $\small\textcolor{#D1AC80}{\textsf{c*h}}$ $\small\textcolor{#CA4363}{\textsf{unless with}}$ $\small\textcolor{#D1AC80}{\textsf{friends/ boyfriend}}$
 
-<a href="https://github.com/sunnyvilla"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=#d1ac80&center=true&vCenter=true&width=200&height=30&lines=main acc" alt="Typing SVG" /></a>
+
 <p align="center">
  <a href="https://goodeveningsunsim.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=CA4363&center=true&vCenter=true&width=200&height=30&lines=straw" alt="Typing SVG" /></a>
 <p align="center">
